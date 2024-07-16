@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2hNKNjh/pMc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Subaru Impreza\\Documents\\b462-robielos\\s01\\discussion\\discussion\\discussion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Subaru Impreza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Subaru Impreza\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Subaru Impreza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Subaru Impreza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
