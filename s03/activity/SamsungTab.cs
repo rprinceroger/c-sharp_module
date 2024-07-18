@@ -17,20 +17,23 @@ namespace activity
 
         public override void SendText(string message, string recipient)
         {
-            Console.WriteLine($"Result from Samsung Tablet: ");
-            Console.WriteLine($"Text message sent to: {recipient} <3 :D");
+            Console.WriteLine($"Result from Samsung Tablet: Text message sent to: {recipient} <3 :D");
             Console.WriteLine("I'll call you back asap.");
         }
 
         public override void PlayMusic(string songName)
         {
-            Console.WriteLine($"Result from Samsung Tablet: ");
-            Console.WriteLine($"The song { songName} is playing on Spotify.Smile for the camera");
+            Console.WriteLine($"Result from Samsung Tablet: The song {songName} is playing on Spotify.Smile for the camera");
         }
 
         public void ApplyMonochromeFilter()
         {
             Console.WriteLine("Applying monochrome filter to your photo.");
+        }
+
+        public void BrowseWeb()
+        {
+            Console.WriteLine("SamsungTab is browsing the web using Chrome.");
         }
 
         public override void CaptureVideo()

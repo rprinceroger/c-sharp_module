@@ -22,21 +22,18 @@ namespace activity
 
         public virtual void SendText(string message, string recipient)
         {
-            Console.WriteLine("Result from Mobile Device:");
-            Console.WriteLine($"Text message sent to: {recipient} <3 :D");
+            Console.WriteLine($"Result from Mobile Device: Text message sent to: {recipient} <3 :D");
             Console.WriteLine(message);
         }
 
         public virtual void PlayMusic(string songName)
         {
-            Console.WriteLine("Result from Mobile Device:");
-            Console.WriteLine($"The song {songName} is playing on Spotify. Smile for the camera");
+            Console.WriteLine($"Result from Mobile Device: The song {songName} is playing on Spotify. Smile for the camera");
         }
 
         public virtual void CaptureVideo()
         {
-            Console.WriteLine("Result from Mobile Device:");
-            Console.WriteLine("Capturing video of your best moments.");
+            Console.WriteLine("Result from Mobile Device: Capturing video of your best moments.");
         }
 
 
