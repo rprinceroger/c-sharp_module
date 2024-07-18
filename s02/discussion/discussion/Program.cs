@@ -103,6 +103,13 @@ namespace discussion
                 return;
             }
 
+            // Validate stockOut against beginningInventory and stockIn
+            if (stockOut > (beginningInventory + stockIn))
+            {
+                Console.WriteLine("Invalid input for stock out. Stock out cannot exceed the total stock available (Beginning Inventory + Stock In).");
+                return;
+            }
+
             // Calculate total balance
             Item newItem = new Item(name, branch, beginningInventory, stockIn, stockOut);
             newItem.TotalBalance = newItem.CalculateTotalBalance();
