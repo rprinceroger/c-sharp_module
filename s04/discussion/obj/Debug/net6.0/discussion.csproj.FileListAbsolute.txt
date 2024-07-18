@@ -1,0 +1,14 @@
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s04\discussion\bin\Debug\net6.0\discussion.exe
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s04\discussion\bin\Debug\net6.0\discussion.deps.json
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s04\discussion\bin\Debug\net6.0\discussion.runtimeconfig.json
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s04\discussion\bin\Debug\net6.0\discussion.dll
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s04\discussion\bin\Debug\net6.0\discussion.pdb
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s04\discussion\obj\Debug\net6.0\discussion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s04\discussion\obj\Debug\net6.0\discussion.AssemblyInfoInputs.cache
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s04\discussion\obj\Debug\net6.0\discussion.AssemblyInfo.cs
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s04\discussion\obj\Debug\net6.0\discussion.csproj.CoreCompileInputs.cache
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s04\discussion\obj\Debug\net6.0\discussion.dll
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s04\discussion\obj\Debug\net6.0\refint\discussion.dll
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s04\discussion\obj\Debug\net6.0\discussion.pdb
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s04\discussion\obj\Debug\net6.0\discussion.genruntimeconfig.cache
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s04\discussion\obj\Debug\net6.0\ref\discussion.dll

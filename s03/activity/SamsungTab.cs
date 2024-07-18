@@ -6,24 +6,13 @@ using System.Threading.Tasks;
 
 namespace activity
 {
-    internal class SamsungTab : MobileDevice, ICellphone
+    internal class SamsungTab : MobileDevice
     {
         public bool Is5G { get; set; }
 
         public SamsungTab(string model, int price, string supplier, bool is5G) : base(model, price, supplier)
         {
             Is5G = is5G;
-        }
-
-        public override void SendText(string message, string recipient)
-        {
-            Console.WriteLine($"Result from Samsung Tablet: Text message sent to: {recipient} <3 :D");
-            Console.WriteLine("I'll call you back asap.");
-        }
-
-        public override void PlayMusic(string songName)
-        {
-            Console.WriteLine($"Result from Samsung Tablet: The song {songName} is playing on Spotify.Smile for the camera");
         }
 
         public void ApplyMonochromeFilter()

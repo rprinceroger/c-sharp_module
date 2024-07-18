@@ -7,7 +7,7 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace activity
 {
-    internal class ApplePhone : MobileDevice, ICellphone
+    internal class ApplePhone : MobileDevice
     {
         public bool IsWithTouchButton { get; set; }
 
@@ -16,16 +16,6 @@ namespace activity
             IsWithTouchButton = isWithTouchButton;
         }
 
-        public override void SendText(string message, string recipient)
-        {
-            Console.WriteLine($"Result from Apple Phone: Text message sent to: {recipient} < 3 :D");
-            Console.WriteLine("Where have you been?");
-        }
-
-        public override void PlayMusic(string songName)
-        {
-            Console.WriteLine($"Result from Apple Phone: The song {songName} is playing on Spotify.Smile for the camera");
-        }
 
         public void BrowseWeb()
         {

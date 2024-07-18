@@ -7,7 +7,7 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace activity
 {
-    internal class MobileDevice
+    internal class MobileDevice : ICellphone
     {
         public string Model { get; set; }
         public int Price { get; set; }
