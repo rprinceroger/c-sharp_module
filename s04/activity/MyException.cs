@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace discussion
 {
-    internal class AgeValueException : Exception
+    internal class MyException : Exception
     {
-        public AgeValueException(string message) : base(message) { }
+        public MyException(string message) : base(message) { }
     }
 
 
