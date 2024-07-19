@@ -1,0 +1,15 @@
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s05\Capstone\bin\Debug\net6.0\Capstone.exe
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s05\Capstone\bin\Debug\net6.0\Capstone.deps.json
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s05\Capstone\bin\Debug\net6.0\Capstone.runtimeconfig.json
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s05\Capstone\bin\Debug\net6.0\Capstone.dll
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s05\Capstone\bin\Debug\net6.0\Capstone.pdb
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s05\Capstone\obj\Debug\net6.0\Capstone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s05\Capstone\obj\Debug\net6.0\Capstone.AssemblyInfoInputs.cache
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s05\Capstone\obj\Debug\net6.0\Capstone.AssemblyInfo.cs
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s05\Capstone\obj\Debug\net6.0\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s05\Capstone\obj\Debug\net6.0\Capstone.sourcelink.json
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s05\Capstone\obj\Debug\net6.0\Capstone.dll
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s05\Capstone\obj\Debug\net6.0\refint\Capstone.dll
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s05\Capstone\obj\Debug\net6.0\Capstone.pdb
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s05\Capstone\obj\Debug\net6.0\Capstone.genruntimeconfig.cache
+C:\Users\Subaru Impreza\Desktop\B297\C#\b462-robielos\s05\Capstone\obj\Debug\net6.0\ref\Capstone.dll

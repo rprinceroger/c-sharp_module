@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Subaru Impreza\\Desktop\\B297\\C#\\b462-robielos\\s04\\activity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B289C6B6-CD3B-4F81-987A-0996FCBC4670}|activity.csproj|c:\\users\\subaru impreza\\desktop\\b297\\c#\\b462-robielos\\s04\\activity\\myexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B289C6B6-CD3B-4F81-987A-0996FCBC4670}|activity.csproj|solutionrelative:myexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B289C6B6-CD3B-4F81-987A-0996FCBC4670}|activity.csproj|c:\\users\\subaru impreza\\desktop\\b297\\c#\\b462-robielos\\s04\\activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B289C6B6-CD3B-4F81-987A-0996FCBC4670}|activity.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289C6B6-CD3B-4F81-987A-0996FCBC4670}|activity.csproj|c:\\users\\subaru impreza\\desktop\\b297\\c#\\b462-robielos\\s04\\activity\\myexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B289C6B6-CD3B-4F81-987A-0996FCBC4670}|activity.csproj|solutionrelative:myexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MyException.cs",
               "DocumentMoniker": "C:\\Users\\Subaru Impreza\\Desktop\\B297\\C#\\b462-robielos\\s04\\activity\\MyException.cs",
               "RelativeDocumentMoniker": "MyException.cs",
@@ -35,13 +35,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Subaru Impreza\\Desktop\\B297\\C#\\b462-robielos\\s04\\activity\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Subaru Impreza\\Desktop\\B297\\C#\\b462-robielos\\s04\\activity\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAgwFgAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHMAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-18T23:51:49.838Z",
               "EditorCaption": ""

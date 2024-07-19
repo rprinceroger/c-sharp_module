@@ -54,6 +54,21 @@
                 Console.WriteLine("The element you are trying to access does not exist.");
                 Console.WriteLine(e.Message);
             }
+            catch (NullReferenceException e)
+            {
+                Console.WriteLine("You are trying to use an object that is null.");
+                Console.WriteLine(e.Message);
+            }
+            catch (FormatException e)
+            {
+                Console.WriteLine("The format of the input is invalid.");
+                Console.WriteLine(e.Message);
+            }
+            catch (InvalidOperationException e)
+            {
+                Console.WriteLine("The operation is not valid in the current state.");
+                Console.WriteLine(e.Message);
+            }
             catch (Exception e)
             {
                 Console.WriteLine("An unexpected error occurred.");
@@ -63,7 +78,7 @@
 
         public static void MultipleExceptions()
         {
-            Console.WriteLine("Which error would you like to receive? [1]DivideByZeroException, [2]UserDefinedException, [3]IndexOutOfRangeException");
+            Console.WriteLine("Which error would you like to receive? [1]DivideByZeroException, [2]UserDefinedException, [3]IndexOutOfRangeException, [4]NullReferenceException, [5]FormatException, [6]InvalidOperationException");
             int option = Convert.ToInt32(Console.ReadLine());
 
             switch (option)
@@ -89,13 +104,27 @@
                     Console.WriteLine(array[3]);
                     break;
 
+                case 4:
+                    string str = null;
+                    Console.WriteLine(str.Length);
+                    break;
+
+                case 5:
+                    Console.WriteLine("Please input a number in text format:");
+                    string input = Console.ReadLine();
+                    int formatException = int.Parse(input);
+                    break;
+
+                case 6:
+                    Console.WriteLine("This will throw InvalidOperationException:");
+                    throw new InvalidOperationException("This is an invalid operation.");
+                    break;
+
                 default:
                     Console.WriteLine("Please input a valid option.");
                     break;
             }
         }
-
-
 
 
 
